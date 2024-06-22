@@ -101,7 +101,6 @@
 
   programs = {
     nix-ld.enable = true;
-    vim.defaultEditor = true;
     nano.enable = false;
   };
 
